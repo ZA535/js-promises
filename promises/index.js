@@ -44,4 +44,4 @@ function getNewMenuList(menuList) {
 }
 getNewMenuList(menuList);
 
-// comment add
+// comment added
