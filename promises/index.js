@@ -45,3 +45,4 @@ function getNewMenuList(menuList) {
 getNewMenuList(menuList);
 
 // comment added
+// new comment added
